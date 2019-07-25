@@ -1,0 +1,32 @@
+[
+    {
+        "productId":2,
+        "productName": "Garden Cart",
+        "productCode": "GDN-0023",
+        "releaseDate": "March 18, 2019",
+        "description": "15 gallon capacity",
+        "price": 32.99,
+        "starRating": 4.2,
+        "imageUrl":"https://media.tractorsupply.com/is/image/TractorSupplyCompany/1147050?$456$"
+    },
+    {
+        "productId":5,
+        "productName": "Hammer",
+        "productCode": "TBX-0049",
+        "releaseDate": "MAY 21, 2019",
+        "description": "Curved claw steel hammer",
+        "price": 8.9,
+        "starRating": 4.8,
+        "imageUrl":"https://www.dakotariggers.com/assets/images/1196200.jpg"
+    },
+    {
+        "productId":10,
+        "productName": "drill",
+        "productCode": "D93k-049",
+        "releaseDate": "MAY 29, 2019",
+        "description": "green & silver",
+        "price": 40.5,
+        "starRating": 4.5,
+        "imageUrl":"https://bricovel.com/2458-big_default/taladro-de-percusion-bosch-gsb-20-2-re-.jpg"
+    }
+]
